@@ -1,0 +1,595 @@
+@media (max-width: 1900px) {
+    header .number .num {
+        font-weight: bold;
+        font-size: 30px;
+    }
+    header .right-col ul {
+        margin-right: 50px;
+    }
+    header .right-col {
+        margin-left: 30px;
+    }
+    header .header-body .info_header .item span {
+        font-size: 16px;
+    }
+    header nav .nav_menu li {
+        padding: 19px 0 17px 0;
+        margin-right: 50px;
+    }
+}
+@media (max-width: 1700px) {
+    header .number img {
+        margin-right: 15px;
+        width: 25px;
+        height: 25px;
+    }
+    header .number .title {
+        font-size: 16px;
+    }
+    header .number .num {
+        font-weight: bold;
+        font-size: 25px;
+    }
+    header .schedule img {
+        margin-right: 15px;
+        width: 25px;
+        height: 25px;
+    }
+    header .info .box {
+        background: #1B9CFC;
+        border-radius: 10px;
+        padding: 17px 10px 11px 10px;
+    }
+    header .info .info-body .box.orange {
+        margin-left: 10px;
+    }
+    header .info .link {
+        font-size: 16px;
+    }
+    header .header-body .info_header .item:first-child {
+        margin-right: 20px;
+    }
+    header .info .info-body .box-body .price .title, header .info .info-body .box-body .price span {
+        font-size: 18px;
+    }
+    header .info .info-body .time {
+        font-size: 20px;
+    }
+    header .header-body .info_header .item:first-child {
+        margin-right: 20px;
+        margin-bottom: 10px;
+    }
+    header .header-body .info_header {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .schedule .schedule-top, .schedule .saturday, .schedule .sunday {
+        font-weight: 500;
+        font-size: 16px;
+    }
+    #med-certificate .box_info .info-box {
+        padding: 30px 20px 30px 20px;
+    }
+    .select__head {
+        font-size: 15px;
+    }
+    #med-certificate .option .item span {
+        font-size: 25px
+    }
+    #med-certificate .option .item .title {
+        font-size: 20px;
+        width: 60%;
+    }
+    .select__head:after {
+        right: 11px;
+    }
+    .select__head {
+        padding: 0 40px 0 18px
+    }
+    #get-certificate .wrapper .item .number {
+        font-weight: bold;
+        font-size: 25px
+    }
+}
+@media (max-width: 1500px) {
+    header .right-col ul li a {
+        font-size: 16px;
+    }
+    header .right-col ul {
+        margin-right: 20px;
+    }
+    header .right-col {
+        margin-left:30px;
+    }
+    .container {
+        padding: 0 50px;
+    }
+    .footer-wrap {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 50px;
+    }
+    .footer-wrap .left-col .item:first-child {
+        margin-right: 60px;
+    }
+    .footer-wrap .left-col .item:first-child ul {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        grid-column-gap: 40px;
+    }
+
+    .footer-wrap .right-col .logo {
+        margin-right: 50px;
+    }
+    .footer-wrap .right-col .number img {
+        margin-right: 20px
+    }
+    .footer-wrap .right-col .schedule img {
+        margin-right: 20px;
+    }
+    .footer-wrap .right-col .number .num {
+        font-weight: bold;
+        font-size: 22px;
+    }
+    .footer-wrap .right-col .number .title {
+        font-size: 16px;
+    }
+    .footer-wrap .right-col .logo {
+        margin-right: 50px;
+        flex-direction: column;
+    }
+    .footer-wrap .contacts {
+        width: 100%;
+    }
+}
+@media (max-width: 1200px) {
+    header .number .num {
+        font-weight: bold;
+        font-size: 21px;
+    }
+    header nav .nav_menu li a {
+        font-size: 16px;
+    }
+    header nav .nav_menu li {
+        margin-right: 25px;
+    }
+    header .header-top .top_menu li {
+        font-size: 16px;
+    }
+    #med-certificate .box_img {
+        height: 600px;
+        margin-bottom: 40px;
+    }
+    #get-certificate .section-subtitle {
+        text-align: center;
+    }
+    #get-certificate .wrapper {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 30px;
+    }
+    #get-certificate .wrapper .item .number {
+        margin-top: 5px;
+        font-size: 36px;
+    }
+    .container {
+        padding: 0 30px;
+    }
+    .footer-wrap .left-col {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-row-gap: 30px;
+    }
+    .footer-wrap .left-col .item .title {
+        margin-bottom: 25px;
+    }
+    .footer-wrap .left-col .item:first-child ul {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        grid-column-gap: 20px;
+    }
+    .footer-wrap .left-col .item ul li {
+        margin-bottom: 15px;
+    }
+    .logo .title {
+        font-size: 20px;
+    }
+    .logo .subtitle {
+        font-size: 15px;
+    }
+    .footer-wrap .right-col {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .footer-wrap .contacts {
+        width: 100%;
+        margin-top: 30px;
+    }
+}
+@media (max-width: 991px) {
+    header .header-body .info_header .mobile{
+        display: block;
+        font-size: 16px;
+        line-height: 21px;
+        text-decoration-line: underline;
+        color: #1B9CFC;
+        position: relative;
+        padding-left: 40px;
+    }
+    header .header-body {
+        padding: 0;
+        box-shadow: none;
+    }
+    header .header-top .top_menu {
+        display: none;
+    }
+    .burger-menu{
+        display: block;
+    }
+    header nav {
+        display: none;
+    }
+    header .header-body .info {
+        width: 100%;
+    }
+    header .container {
+        padding: 0;
+    }
+    header .header-body .info_header{
+        box-shadow: 0px 4px 20px 2px rgba(52, 44, 98, 0.13);
+        padding: 20px 16px;
+    }
+    header .header-body .info_header .item.first {
+        margin: 25px 0;
+    }
+    header .info .info-body {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 0;
+        margin-top: 30px;
+        padding: 0 16px 20px 16px;
+    }
+    header .header-body .info_header .mobile:before{
+        content: "";
+        width: 20px;
+        height: 28px;
+        position: absolute;
+        left: 4px;
+        top: 0;
+        background: url("../images/person_pin_circle_24px.png")no-repeat;
+        background-size: contain;
+    }
+    header .header-body .info_header .mobile img {
+        margin-right: 25px;
+    }
+    header .header-body .logo {
+        display: none;
+    }
+    header .right-col  {
+        display: none;
+    }
+    .container {
+        padding: 0 30px;
+    }
+    #med-certificate .box_info-img {
+        display: none;
+    }
+
+    #med-certificate .section-subtitle {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    #price table tr td.second ,
+    #price table tr th.second {
+        display: none;
+    }
+    #who-needs .kids_img {
+        margin-top: 30px;
+    }
+    .footer-wrap .logo.logo-mobile{
+        display: flex;
+        justify-content: center;
+    }
+    .logo.logo-mobile img {
+        margin-right: 16px;
+        width: 90px;
+        height: 92px;
+    }
+    .logo .title {
+        font-size: 25px;
+    }
+    .logo .subtitle {
+        font-size: 20px;
+    }
+    footer {
+        padding: 34px 0 31px 0;
+    }
+    .footer-wrap .left-col .item ul li {
+        margin-bottom: 18px;
+    }
+    .footer-wrap .left-col .item.first {
+        margin-right: 0;
+    }
+    .footer-wrap .left-col .item .title {
+        margin-bottom: 34px;
+    }
+    .footer-wrap .right-col .number img {
+        margin-right: 11px;
+        width: 18px;
+        height: 18px;
+    }
+    .footer-wrap .right-col .number .num {
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .footer-wrap .right-col .number .title {
+        font-size: 14px;
+    }
+    .footer-wrap .right-col .schedule .schedule-bottom {
+        flex-direction: column;
+    }
+    .footer-wrap .right-col .schedule .schedule-bottom .saturday{
+        margin-bottom: 10px;
+        margin-right: 0;
+    }
+    .footer-wrap .right-col .schedule img {
+        margin-right: 11px;
+        width: 18px;
+        height: 20px;
+    }
+    .footer-wrap .logo.pc {
+        display: none;
+    }
+    .footer-wrap {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-column-gap: 0;
+    }
+    .footer-wrap .left-col ul:first-child{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    footer .footer-bottom img {
+        display: none;
+    }
+    footer .footer-bottom {
+        justify-content: center;
+        margin-top: 40px;
+    }
+}
+@media (max-width: 767px) {
+    .section-title{
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 29px;
+    }
+    #med-certificate .container {
+        padding: 0;
+    }
+    #med-certificate .section-title {
+        margin-bottom: 10px;
+    }
+    #med-certificate .box_img .license {
+        background: none;
+        top: -85px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        height: auto;
+    }
+    #med-certificate .box_img {
+        height: 400px;
+        margin: 85px 0 240px 0;
+        border-radius: 30px;
+    }
+    #med-certificate .box_img .kids-certificate {
+        right: 0;
+        bottom: -200px;
+        left: 0;
+        margin: auto;
+    }
+    #med-certificate .box_info .info-box {
+        padding: 30px 15px 30px 15px;
+        border-radius: 30px;
+    }
+    #med-certificate .section-subtitle {
+        margin-top: 20px;
+        padding: 0 16px;
+    }
+    #get-certificate .wrapper {
+        grid-template-columns: 1fr;
+    }
+    #get-certificate .wrapper .item .title {
+        text-align: center;
+    }
+    #get-certificate .wrapper .item .number {
+        text-align: center;
+        margin-top: 10px;
+        font-size: 30px;
+    }
+    #get-certificate .section-subtitle {
+        margin-bottom: 40px;
+    }
+    .container {
+        padding: 0 16px;
+    }
+    #price table tr.first {
+        border-radius: 2px;
+        height: auto;
+    }
+    #price table tr th {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    #price td.first,
+    #price th.first {
+        width: 70%;
+    }
+    #price table th.first{
+        padding: 10px 0;
+    }
+    #price table td.first {
+        text-align: left;
+        padding: 0 0 0 14px;
+        height: 80px;
+    }
+    #price table tr {
+        padding-right: 0;
+    }
+    #price table tr td {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    #price table tr td.square {
+        vertical-align: top;
+        padding-top: 17px;
+    }
+    #price table {
+        margin-bottom: 20px;
+    }
+    #price .branches .box-title {
+        font-size: 22px;
+        line-height: 29px;
+        margin-bottom: 48px;
+    }
+    #who-needs {
+        padding: 55px 0 40px 0;
+    }
+    #who-needs .section-title {
+        text-align: center;
+    }
+    #who-needs .subtitle, #who-needs .options span {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 16px;
+    }
+    #who-needs .options {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-row-gap: 22px;
+        margin-bottom: 33px;
+    }
+    #who-needs .kids_img{
+        width: 100%;
+        height: 289px;
+    }
+    #med-certificate .box_img .time {
+        margin-top: 0;
+        margin-left: 0;
+        position: absolute;
+        right: 27px;
+        bottom: 21px;
+    }
+}
+@media (max-width: 650px) {
+    header .info .info-body {
+        display: flex;
+        flex-direction: column;
+        padding: 0 16px 20px 16px;
+    }
+    header .info .info-body .box.orange {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+}
+@media (max-width: 480px) {
+    #med-certificate .box_info .info-box {
+        padding: 26px 15px 28px 15px;
+    }
+    #med-certificate .content_block {
+        height: auto;
+        overflow: auto;
+        position: relative;
+
+    }
+    #med-certificate .content_block.hide {
+        height: 130px;
+        overflow: hidden;
+    }
+    #med-certificate .content_block.hide a{
+        display: block;
+        color: #1B9CFC;
+        text-decoration: underline;
+
+    }
+    .select__head {
+        font-size: 14px;
+    }
+    #med-certificate .option {
+        margin: 11px 0 40px 0;
+    }
+    #med-certificate .option .item .title {
+        font-size: 14px;
+        width: 60%;
+        line-height: 19px;
+    }
+    #med-certificate .box_info .select label {
+        font-size: 14px;
+        line-height: 19px;
+        margin-bottom: 5px;
+    }
+    #med-certificate .option .item {
+        margin-bottom: 8px;
+    }
+    #med-certificate .option .item span {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    #get-certificate .section-title {
+        margin-bottom: 10px;
+    }
+    #get-certificate .section-subtitle {
+        margin-bottom: 27px;
+        padding: 11px 17px;
+        font-size: 14px;
+        text-align: center;
+    }
+
+    #get-certificate .wrapper .box .img {
+        margin-bottom: 0;
+    }
+    #get-certificate .wrapper .box .subtitle {
+        padding: 18px 16px 18px 16px;
+        font-size: 16px;
+    }
+    #get-certificate {
+        padding-bottom: 28px;
+    }
+    #price .section-title {
+        margin-bottom: 10px;
+    }
+    #price .subtitle {
+        margin-bottom: 27px;
+        padding: 11px 17px;
+        font-size: 14px;
+        text-align: center;
+    }
+    #price .container {
+        padding: 0;
+    }
+    #price .subtitle {
+        margin: 0 16px;
+    }
+    #price table {
+        width: 90%;
+        margin: 0 auto 20px auto;
+    }
+    #med-certificate .section-title {
+        margin-bottom: 10px;
+        padding: 0 16px;
+    }
+}
+@media (max-width: 420px) {
+    #med-certificate .content_block.hide {
+        height: 150px;
+    }
+}
+@media (max-width: 350px) {
+    #med-certificate .content_block.hide {
+        height: 176px;
+    }
+}
